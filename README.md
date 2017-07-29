@@ -1,2 +1,2 @@
-# temporal_wallet
+# Temporal Wallet
 Time released proxy wallet
